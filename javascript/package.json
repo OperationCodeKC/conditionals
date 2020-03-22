@@ -1,0 +1,14 @@
+{
+  "name": "condi",
+  "version": "1.0.0",
+  "description": "JavaScript demo of conditionals",
+  "main": "index.js",
+  "author": "Jim McLaughlin",
+  "license": "MIT",
+  "scripts": {
+    "basicIf": "node basicIf.js",
+    "fullIf": "node ifElse.js",
+    "switch": "node switch.js",
+    "ternary": "node ternary.js"
+  }
+}
