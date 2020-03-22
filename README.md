@@ -1,4 +1,4 @@
-# JavaScript and Python Conditionals
+# JavaScript Conditionals
 
 ## JavaScript if/else and switch statements
 
