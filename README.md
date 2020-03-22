@@ -11,6 +11,7 @@ In JavaScript, there are several ways to accomplish conditional code execution. 
 
 You can find a good tutorial on the JavaScript IF/ELSE statement here: https://www.w3schools.com/js/js_if_else.asp
 W3 Schools also has a good tutorial on the Switch statement: https://www.w3schools.com/js/js_switch.asp 
+Here is a good explanation on the ternary operator: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
 
 In the javascript directory, you will find the following examples.
 
