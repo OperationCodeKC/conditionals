@@ -39,6 +39,11 @@ module.exports.people = [{
     dob: new Date(1997, 2, 2),
     homeOwner: false
 }, {
+    name: 'Angela',
+    sex: 'F',
+    dob: null,
+    homeOwner: null    
+}, {
     name: 'Logan',
     sex: 'M',
     dob: new Date(1987, 4, 30),
