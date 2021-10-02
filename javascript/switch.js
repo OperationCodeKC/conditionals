@@ -2,25 +2,32 @@ const people = require('./data').people;
 
 // convert the day of the week number to a string
 function getDayName(day) {
+    let dayOfWeek;
     switch (day) {
         case 0:
-            return 'Sunday';
+            dayOfWeek = 'Sunday';
+            break;
         case 1:
-            return 'Monday';
+            dayOfWeek = 'Monday';
+            break;
         case 2:
-            return 'Tuesday';
+            dayOfWeek = 'Tuesday';
+            break;
         case 3:
-            return 'Wednesday';
+            dayOfWeek =  'Wednesday';
+            break;
         case 4:
-            return 'Thursday';
+            dayOfWeek = 'Thursday';
+            break;
         case 5:
-            return 'Friday';
+            dayOfWeek = 'Friday';
+            break;
         case 6:
-            return 'Saturday';
-        default:
-            return undefined;
-
+            dayOfWeek = 'Saturday';
+            break;
     }
+    
+    return dayOfWeek
 }
 
 // loop through the people array
